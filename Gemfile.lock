@@ -127,9 +127,7 @@ GEM
     matrix (0.4.2)
     method_source (1.1.0)
     mini_mime (1.1.5)
-    minitest (6.0.2)
-      drb (~> 2.0)
-      prism (~> 1.5)
+    minitest (5.27.0)
     msgpack (1.7.2)
     net-imap (0.4.10)
       date
@@ -243,6 +241,7 @@ DEPENDENCIES
   chartkick (~> 5.0)
   debug
   devise (~> 4.9)
+  minitest (~> 5.0)
   groupdate (~> 6.4)
   importmap-rails
   jbuilder
